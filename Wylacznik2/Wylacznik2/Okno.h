@@ -324,7 +324,7 @@ private: System::Void button6_Click(System::Object^  sender, System::EventArgs^ 
 			 label3->Text = "0:00";
 			 status = 1;
 			 WylaczKomputer('a');  // komenda konsoli zeby nie wylaczal kompa
-
+			 ///zmieniam tu do testow 
 			 
 			 
 }
